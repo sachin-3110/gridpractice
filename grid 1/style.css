@@ -55,7 +55,7 @@ p{
     background-color: rgb(130, 129, 200);
 }
 .item:hover{
-    color: black;
+    color: white;
 }
 .item:hover{
     transition: 1s;
